@@ -10,7 +10,7 @@
 - 🏡 **Hometown**:  *Dehradun*.
 - 🎓 **Education**:  *ECE, IIIT Hyderabad*
 - 🎨 **Hobbies**:  *Dreaming* 🌙💭
-- 🎯 **Goals**:  *Travel the world* 🌍
+
 
 ### 🚀 **My Skill Set**  
 ---
