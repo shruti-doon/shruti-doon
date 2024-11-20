@@ -2,7 +2,7 @@
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&pause=500&color=00FF41&width=700&height=90&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Algorithm+Enthusiast+%F0%9F%92%AA;UI%2FUX+Designer+%F0%9F%96%A8%EF%B8%8F;ECE+Student+%40+IIIT+Hyderabad)](https://github.com/shruti-doon)
 <div>
-  <p align="center"><img src="https://i.pinimg.com/originals/4e/70/67/4e7067de8b9bcc57e3246b6d0aa5bc28.gif"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/108824074/208310711-205b6b4a-f445-4215-bbc4-0ebfcbde5259.jpg"></p>
 </div>
 
 
