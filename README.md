@@ -37,7 +37,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-doon&layout=compact&theme=midnight-purple" alt="Top Languages" />
   <br><br>
-  <img align="center" src="https://komarev.com/ghpvc/?username=shruti-doon" />  
+  
 </div>
 
 
